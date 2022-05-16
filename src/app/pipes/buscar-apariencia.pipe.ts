@@ -14,5 +14,4 @@ export class BuscarAparienciaPipe implements PipeTransform {
     }
     return buscarporApariencia;
   }
-
 }

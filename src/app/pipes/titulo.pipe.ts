@@ -7,7 +7,6 @@ export class TituloPipe implements PipeTransform {
 
   transform(value: string): string {
     let encabezado = 'Albúm' + value;
-    return encabezado;
+      return encabezado;
   }
-
 }

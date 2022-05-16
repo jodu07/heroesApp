@@ -15,7 +15,6 @@ export interface Heroe {
     biography: {
         firstAppearance: string,
         alignment: string
-
     },
     images: {
         md: string,
