@@ -14,9 +14,6 @@ export class OrdenarNombrePipe implements PipeTransform {
         return 1;
       }
       return 0;
-
-    });
-    
-  }
-  
+    });    
+  }  
 }
